@@ -10,6 +10,8 @@ export const validationMixin: any
 
 // const Validation
 export interface Validation extends Vue {
+    [key:string]: any
+    
     // const validationGetters
     readonly $invalid: boolean
     readonly $dirty: boolean
