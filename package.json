@@ -1,6 +1,59 @@
 {
-    "private": true,
-    "dependencies": {
-        "vue": "^2.5.16"
+  "_from": "@types/vuelidate@^0.7.4",
+  "_id": "@types/vuelidate@0.7.4",
+  "_inBundle": false,
+  "_integrity": "sha512-fdDm9M3AlisXAvu+POuzQQlO4luxF0J9KHuxiPM+HuSshVizF+QN6u1/lhqNE0wq5L/Us8oJmTVWbx40iNsdwA==",
+  "_location": "/@types/vuelidate",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@types/vuelidate@^0.7.4",
+    "name": "@types/vuelidate",
+    "escapedName": "@types%2fvuelidate",
+    "scope": "@types",
+    "rawSpec": "^0.7.4",
+    "saveSpec": null,
+    "fetchSpec": "^0.7.4"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "http://nexus:8081/repository/npm-group/@types/vuelidate/-/vuelidate-0.7.4.tgz",
+  "_shasum": "0792cae95ce6de75d2f40d3b5b787773a2e872be",
+  "_spec": "@types/vuelidate@^0.7.4",
+  "_where": "/home/deoliveira/dev/contas-pre-pagas",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Jan Esser",
+      "url": "https://github.com/janesser"
+    },
+    {
+      "name": "Jubair Saidi",
+      "url": "https://github.com/jubairsaidi"
     }
+  ],
+  "dependencies": {
+    "vue": "^2.5.16"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for vuelidate",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/vuelidate",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.4",
+  "types": "index",
+  "typesPublisherContentHash": "ca0414243c070ae66bde17c1447b1f476d3084868f1700c99ceea3ac67d2ddd5",
+  "version": "0.7.4"
 }
